@@ -1,7 +1,7 @@
 # Autoyangyon
 
-The Autoyangyon application is an Android app developed using React Native, designed to support mechanics in managing garage operations efficiently. The app is intended exclusively for mechanics and is not available for customer use.
-This repo is an API sever for the frontend application which can be found at the end of this note. 
+The Autoyangyon application is an Android app, designed to support mechanics in managing garage operations efficiently. The app is intended exclusively for mechanics and is not available for customer use.
+This repo is an API server developed using Next.JS for the frontend application which can be found at the end of this note. 
 
 ## Functions
 
