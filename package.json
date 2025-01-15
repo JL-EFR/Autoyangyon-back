@@ -9,16 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@line/bot-sdk": "^8.2.0",
+    "axios": "^1.6.5",
+    "dotenv": "^16.3.1",
+    "google-auth-library": "^9.4.1",
+    "jose": "^5.2.0",
+    "mongodb": "^6.3.0",
+    "next": "14.0.4",
+    "nextjs-cors": "^2.2.0",
+    "promptpay-qr": "^0.5.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/jsonwebtoken": "^9.0.5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.0.4"
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
   }
 }
